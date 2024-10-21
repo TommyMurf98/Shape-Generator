@@ -1,4 +1,4 @@
-This Java program uses JavaFX to create a graphical application that allows users to generate and manipulate shapes (polygons). Here's a breakdown of what the code does:
+This Java program uses JavaFX to create a graphical application that allows users to generate and manipulate shapes (polygons). This was submitted as a universtiy assignemnt for the Algorithims & Data Structures module. Here's a breakdown of what the code does:
 
 1. **Packages and Imports**:
    - The program imports several JavaFX libraries such as `Application`, `Stage`, `Scene`, `Circle`, `Polygon`, `TextField`, `Button`, etc., for creating graphical components like shapes and buttons, and for handling user events.
